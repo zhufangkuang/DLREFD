@@ -1,0 +1,839 @@
+acute kidney injury (AKI)		
+Acute Promyelocytic Leukemia (APL)		
+Apoptosis		
+Arteriosclerosis		
+Asthma		
+Atherosclerosis		
+Autophagy and Inflammation		
+Benzene toxicity		
+Bladder Carcinoma		
+Bladder Transitional Cell Carcinoma		
+B-lymphoblastic Leukemia		
+Brain Disease		
+Breast Cancer		
+Cancer		
+Cardiac Hypertrophy		
+Cardiovascular Disease		
+Cerebral ischemia/reperfusion (I/R) injury 		
+Cervical Cancer		
+cholangiocarcinoma		
+chronic lymphocytic leukemia (CLL)		
+Chronic Myeloid Leukemia		
+chronic obstructive pulmonary disease (COPD)		
+cleft palate		
+Colon Adenocarcinoma		
+Colon Cancer		
+Colorectal Cancer		
+Diabetes		
+Diabetes-induced Retinal neurodegeneration		
+Diabetes-related Microvascular Dysfunction		
+Diabetic nephropathy (DN)		
+endometrial carcinoma		
+epithelial ovarian cancer (EOC)		
+ER¦Á-positive breast cancer		
+Esophageal Squamous Cell Carcinoma		
+Exfoliation Syndrome		
+Fetal and newborn growth		
+Fetal Development		
+Gallbladder Cancer		
+Gastric Cancer		
+Glioblastoma		
+glioblastoma multiforme		
+Glioma		
+Head and Neck Squamous Cell Carcinoma (HNSCC)		
+Hematologic Malignancy Tumorgenesis		
+Hepatic Cancer		
+Hepatic Injury		
+Hepatic Steatosis		
+hepatocarcinoma		
+Hepatocellular Carcinoma		
+hepatocyte autophagy		
+Hepatoma		
+Hindlimb Ischaemia		
+Huntington's Disease		
+Hyperactive Behiviors		
+hyperoxia-induced lung injury		
+hypoxia-reoxygenation injury		
+Infertility		
+Inflammation		
+Insulin-Resistance-Related Disease		
+Ischemic Stroke		
+kidney cancer		
+Laryngeal Epidermoid Carcinoma		
+Laryngeal Squamous Cell Carcinoma		
+Left ventricular Hypertrophy		
+Liver Cancer		
+Liver Fibrosis		
+Loeys-Dietz syndrome		
+Lung Adenocarcinoma		
+Lung Cancer		
+Lung Fibrosis		
+Lung Squamous Cell Carcinoma		
+Malignant pleural mesothelioma (MPM)		
+Melanoma		
+Myeloid Leukemia		
+Nasopharyngeal Carcinoma		
+nasopharynx cancer		
+Neuroblastoma		
+Neuronal Apoptosis		
+neuronal cell apoptosis		
+Neuropsychiatric Disorders		
+Neurotoxicity		
+Noise-induced hearing loss (NIHL)		
+Nonalcoholic Fatty Liver Disease		
+Nonsense-Mediated Decay		
+Non-small-cell Lung Cancer		
+Obesity		
+Osteoarthritis		
+Osteoblast Differentiation		
+Osteosarcoma		
+Ovarian Cancer		
+Pancreatic Cancer		
+Pancreatic ductal adenocarcinoma (PDAC)		
+Pancreatic Neuroendocrine Tumors		
+Parkinson's Disease		
+Peripheral Vascular Diseases		
+Pharyngeal Carcinoma		
+Pleomorphic Leiomyosarcoma		
+premature ovarian failure (POF)		
+Prostate Cancer		
+Rejection of Renal Allografts		
+renal cell carcinoma		
+Renal Fibrosis and Inflammation		
+Renal Tubular Epithelial Injury		
+Reproductive Txoicity		
+Respiratory diseases		
+Retinoblastoma		
+Rheumatoid Arthritis		
+Sepsis		
+skin cancer		
+Skin Lesions		
+Skin Tumor		
+Small Cell Lung Cancer		
+Spontaneously Hypertension		
+Systemic Lupus Erythematosus (SLE)		
+Temporomandibular Joint Osteoarthritis (TMJ OA)		
+Thoracoabdominal Aorta Aneurysm		
+Tongue Carcinoma		
+Tongue Squamous Cell Carcinoma		
+traumatic brain injury		
+Triple-negtive Breast Cancer		
+Type 2 Diabetes		
+Vascular Growth		
+Vertebrate Circadian		
+Warburg Effect		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
